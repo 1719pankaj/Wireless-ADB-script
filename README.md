@@ -5,7 +5,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Wireless script lets you connect to a adb device over wifi without hassles and the need to write down the same 
+Wireless script lets you connect to an adb device over wifi without hassles and the need to write down the same 
 commands everytime.
 
 
