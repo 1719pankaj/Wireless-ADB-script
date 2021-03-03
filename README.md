@@ -59,11 +59,12 @@ Use "Alt+W" shortcut to use Script.
 - Connect your phone to pc over USB and make sure USB debugging is enabled and connected  (required for the first time)
 
 - Enter the last digit of your android device's local IP address
-![alt text](https://github.com/1719pankaj/Utilities/blob/main/andy.jpeg)
+![alt text](https://github.com/1719pankaj/Utilities/blob/main/andy.jpeg.jpg)
 
 - Hit Enter and your device should be connected
-- Now disconnect the cable and roll
+![alt text](https://github.com/1719pankaj/Utilities/blob/main/connected.png)
 
+- Now disconnect the cable and roll
 ## Development
 
 Want to contribute? Great!
