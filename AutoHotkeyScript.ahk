@@ -1,2 +1,2 @@
 !w::
-Run, D:\Installed\Wireless Script\Run - Shortcut
+Run, [Insert shortcut loaction here(w/o box[])]
