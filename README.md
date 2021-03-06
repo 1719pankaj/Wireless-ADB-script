@@ -40,7 +40,7 @@ Create a shortcut for Run.bat
 Step 3:
 
 ```sh
-now se this shortcut to use Script
+now use this shortcut to use Script
 ```
 
 Step 4 (optional):
