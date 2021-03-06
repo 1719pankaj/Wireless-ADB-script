@@ -71,4 +71,13 @@ Want to contribute? Great!
 
 Read CONTRIBUTING.md
 
+## Idiosyncrasies
 
+ADB over wifi is quite a stable connection but the initial connection process is bit finicky (to put it lightly)
+
+- It won't connect unless and untill you have USB debugging setup and connected (for the first time)
+- Depending on your device, OEM and mood of ADB gods you'll never need to connect USB debugging ever or maybe connect it for the first 2-3 times or maybe
+- Let's say you managed to make it recognise and connects all wireless well Congratulations. but be prepared just in case the lizard overlords decide to throw "device actively refused to connect" error. In that case you go hunt for the cable again.
+- Imma put this on record, this behaviour has nothing to do with my tool, its the nature of ADB over wifi and anything based on it will inherit all its flaws and shortcommings.
+- Ok all things aside 98% of the time it works flawlessly and you won't have many problems but its my job to let you know.
+- Enjoy :)
