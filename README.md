@@ -11,7 +11,8 @@ commands everytime.
 
 ## Features
 - Fast AF
-- Verbose 
+- Verbose
+- Easy to understand 
 - Powered by Python
 
 ## Installation
