@@ -1,1 +1,1 @@
-python wireless_script.py
+python wlss_script.py
